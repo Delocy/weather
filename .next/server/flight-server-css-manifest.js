@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/zares/Resume/weather/app/page":["/Users/zares/Resume/weather/styles/globals.css"]},"/Users/zares/Resume/weather/app/layout.js":["/Users/zares/Resume/weather/styles/globals.css"]}
