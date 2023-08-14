@@ -6,13 +6,15 @@ const Page = () => (
     <Navbar />
     <Hero />
     <About />
-    <Explore />
+    <WhatsNew />
+    <Insights />
+    {/* <Explore />
     <GetStarted />
     <WhatsNew />
     <World />
     <Insights />
     <Feedback />
-    <Footer />
+    <Footer /> */}
   </div>
 );
 

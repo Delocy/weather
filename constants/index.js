@@ -35,36 +35,39 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Real-Time',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Track current weather conditions in real-time',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Educational',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Learn about the science behind weather patterns, climate trends, and more with our informative articles and guides. Weather does not have to be a mystery!',
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: '/cloudformation.jpeg',
+    title: "Unraveling Weather Phenomena: Exploring Nature's Atmospheric Marvels",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        "A Dive into the Fascinating World of Weather Patterns, Cloud Formations, and Atmospheric Events",
+    link: "https://trendydipatch.co.in/unveiling-the-weather-enigma-life-2-0/",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: '/climateChange.jpeg',
+    title: 'Climate Chronicles: Navigating the Past, Understanding the Present, Shaping the Future',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        "Discovering the Intricacies of Climate Change, Historical Weather Data, and Sustainable Solutions",
+    link: "https://www.youtube.com/watch?v=DrFNdXQFaVE",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: '/seasonsChange.webp',
+    title: 'Weather Wonders: The Science Behind the Seasons, Storms, and Sunsets',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        "Delving into the Mechanics of Seasonal Changes, Thunderstorm Development, and the Artistry of Atmospheric Optical Phenomena",
+    link: "https://www.nationalgeographic.com/science/article/131027-sunset-sky-change-color-red-clouds-science",
   },
 ];
 
