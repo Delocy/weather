@@ -9,7 +9,8 @@ import { planetVariants, staggerContainer, fadeIn } from '../utils/motion';
 
 const WhatsNew = () => (
   <section className={`${styles.paddings} relative z-10`} >
-    <motion.div
+    <div className="flex justify-center items-center">
+      <motion.div
       variants={staggerContainer}
       initial="hidden"
       whileInView="show"
@@ -17,8 +18,8 @@ const WhatsNew = () => (
       className={`${styles.innerWidth}  my-auto flex lg:flex-row flex-col gap-8`}
     >
       <motion.div
-        variants={fadeIn('right', 'tween', 1.5, 1)}
-        className="flex-[0.95] flex justify-center flex-col"
+        variants={fadeIn('right', 'tween', 1, 1)}
+        className="flex-[1] flex justify-center flex-col"
       >
         <TypingText title="| Why use" />
         <TitleText title={<>Why use Climavisions?</>} />
@@ -40,6 +41,8 @@ const WhatsNew = () => (
         />
       </motion.div>
     </motion.div>
+    </div>
+    
   </section>
 );
 
