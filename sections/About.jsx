@@ -16,6 +16,7 @@ const weatherImages = {
   'Thunderstorm': '/Thunderstorm.png',
   'Snow': '/Snow.png',
   'Mist': '/Mist.png',
+  'Clouds': '/Few_clouds.png',
 };
 
 
